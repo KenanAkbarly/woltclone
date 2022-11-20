@@ -60,4 +60,19 @@
      border-bottom: 1px solid #535353;
  }
  
+/* HOME HEAD IMAGE */
+.home__section__header__image img{
+    filter:brightness(40%)
+}
+.home__section__header__image{
+    position: relative;
+}
+.home__section__header__text h1{
+    position:absolute;
+    transform: translate(110%,-350px);
+    color: white;
+    font-size: 4rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
  
