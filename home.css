@@ -390,3 +390,66 @@ footer{
     border-bottom: 1px solid #c9c9c9;
     
 }
+/* FOOTER FAVICON */
+
+/* LEFT */
+
+
+.footer__end{
+    display: flex;
+    justify-content: space-between;
+}
+.footer__end__location i{
+    color: white;
+    font-size: 13px;
+}
+.footer__end__language i{
+    color: white;
+    margin-left: 25px;
+    font-size: 13px;
+}
+.footer__end__accessibility i{
+   color: white;
+   margin-left: 25px;
+   font-size: 13px;
+}
+.footer__end__left{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.footer__end__left span{
+   color: white;
+   margin-left: 5px;
+   font-size: 13px;
+   font-family: "Roboto",sans-serif;
+}
+.footer__end__left span:hover{
+    cursor: pointer;
+    border-bottom: 1px solid #c9c9c9;
+}
+
+
+/* RIGHT */
+.footer__end__right{
+    display: flex;
+    margin-top: 100px;
+}
+.footer__end__right a{
+    text-decoration: none;
+    color: white;
+   margin-left: 35px;
+   font-size: 13px;
+   font-family: "Roboto",sans-serif;
+}
+.footer__end__right p{
+    color: rgb(138, 138, 138);
+    margin-left: 35px;
+    font-size: 13px;
+    font-family: "Roboto",sans-serif;
+   margin-top: 0;
+}
+.footer__end__right a:hover{
+    cursor: pointer;
+    border-bottom: 1px solid #c9c9c9;
+}
