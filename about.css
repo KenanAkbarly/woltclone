@@ -156,3 +156,34 @@
     line-height: 1.43;
     color: #535353;
 }
+/* LEARN MORE ABOUT */
+
+.learn_more_about{
+    margin: 0 auto;
+    width: 830px;
+    padding-top: 130px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 900;
+    font-family: 'Roboto',sans-serif;
+    padding-bottom: 130px;
+}
+.learn_more_about h2{
+    padding-bottom:40px ;
+}
+.learn_more_about button{
+    width: 220px;
+    height: 50px;
+    border-radius: 7px;
+    border: none;
+    background-color: #0059e8;
+}
+.learn_more_about button:hover{
+    background-color: #266fe6;
+}
+.learn_more_about a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.967);
+    font-family: 'Roboto';
+    font-size: 23px;
+}
