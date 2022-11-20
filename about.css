@@ -249,3 +249,11 @@
     font-family: 'Roboto';
     font-size: 23px;
 }
+/* FOOTER */
+footer{
+    background-color:#040404 ;
+}
+.footer_item_links{
+    margin: 0 auto;
+    width: 1100px;
+}
