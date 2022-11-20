@@ -308,3 +308,25 @@ footer{
    font-size: 13px;
    font-family: "Roboto",sans-serif;
 }
+* RIGHT */
+.footer_end_right{
+    display: flex;
+    margin-top: 100px;
+}
+.footer_end_right a{
+    text-decoration: none;
+    color: white;
+   margin-left: 35px;
+   font-size: 13px;
+   font-family: "Roboto",sans-serif;
+}
+.footer_end_right p{
+    color: rgb(138, 138, 138);
+    margin-left: 35px;
+    font-size: 13px;
+    font-family: "Roboto",sans-serif;
+}
+.footer_end_right a:hover{
+    cursor: pointer;
+    border-bottom: 1px solid #c9c9c9;
+}
